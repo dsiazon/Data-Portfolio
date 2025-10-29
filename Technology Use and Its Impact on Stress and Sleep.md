@@ -1,4 +1,4 @@
-# Technology Use and Its Impact on Sleep and Stress
+# Technology Use and Its Impact on Wellness
 
 ## About the Dataset
 
