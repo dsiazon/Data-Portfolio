@@ -15,11 +15,17 @@ With 5,000 participants, the dataset provides a rich opportunity to study patter
 
 ## Analytical Insights
 
-**1. **
-**2. **
-**3. **
-**4. **
-**5. **
+**1. Top 3 Average Screen Time Use:**
+- 21.67% of average hours are being spent on screen time for Work.  
+- Closely following Work is Social Media with a 21.13% of average hours.
+- 12.86% of average hours is being spent on the phone.
+
+**2. High screen time with work and social media are associated with high stress levels.**
+The more a user spends screen time for work and social media, the more stress they get. 
+
+**3. More screen time spent for gaming and entertainment is associated with low stress levels.**
+On the contrary, only gaming and entertainment have the opposite effect on stress. The more that a user spends time gaming or some type of entertainment, the less stressed they will be. 
+
 
 ## Managerial Aspects
 
