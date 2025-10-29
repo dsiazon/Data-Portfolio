@@ -10,7 +10,7 @@ The data offers a broad look at how digital behaviors—like time spent on phone
 
 With 5,000 participants, the dataset provides a rich opportunity to study patterns and relationships between technology use and wellness outcomes. Researchers and data scientists can use it to ask questions like: Does heavy screen time impact sleep and stress levels? Is social media linked to mood or anxiety? Can healthy habits offset the negative effects of technology use?
 
-
+![](Images/TechUse.png)
 
 ## Analytical Insights
 
