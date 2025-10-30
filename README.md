@@ -3,3 +3,6 @@
 ## Technology Use and Its Impact on Wellness
 
 ![](Images/TechUse.png)
+
+## Birthing-Friendly Hospitals Across US
+![](Images/Birthing-Friendly-Hospitals.png)
