@@ -27,5 +27,6 @@ The more a user spends screen time for work and social media, the more stress th
 On the contrary, only gaming and entertainment have the opposite effect on stress. The more that a user spends time gaming or some type of entertainment, the less stressed they will be. 
 
 
-## Managerial Aspects
+## Conclusion
 
+High stress levels and low quality sleep can be caused by high amounts of technology use. However, based on our findings, some use of technology can have the opposite effect. Use of technology for the purpose of gaming and entertainment can be benefical for your wellness as it can be used to de-stress and unwind. Technology does not have to be destructive towards our wellness. If we can manage a healthy amount of screen time then we can have a healthy relationship with technology use. 
