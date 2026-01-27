@@ -6,3 +6,7 @@
 
 ## Birthing-Friendly Hospitals Across US
 ![](Images/Birthing-Friendly-Hospitals.png)
+
+## Beyong Market Size
+### How Company Scale and Style Influence Financial Returns and Growth
+![](Images/Beyond Market Size - MosaicPlot.png)
