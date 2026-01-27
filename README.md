@@ -9,4 +9,4 @@
 
 ## Beyong Market Size
 ### How Company Scale and Style Influence Financial Returns and Growth
-![](Images/Beyond Market Size - MosaicPlot.png)
+![](Images/BMSMosaicPlot.png)
