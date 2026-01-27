@@ -5,7 +5,6 @@
 ![Rstudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 
 ## Technology Use and Its Impact on Wellness
-
 ![](Images/TechUse.png)
 
 ## Birthing-Friendly Hospitals Across US
@@ -13,7 +12,10 @@
 
 ## Beyong Market Size
 ### How Company Scale and Style Influence Financial Returns and Growth
+<p align="center">
+  <img src="Images/BMS/solarpanelsUSA.png" />
+</p>
+
 | | |
 |---|---|
-| ![](Images/BMSMosaicPlot.png)| | ![](Images/BMSMosaicPlot.png) |
-| ![](Images/BMSMosaicPlot.png) | ![](Images/BMSMosaicPlot.png) |
+| ![](Images/BMS/Histograms.png) | ![](Images/BMS/WeatherPairs.png) |
