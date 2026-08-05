@@ -19,3 +19,7 @@
 | | |
 |---|---|
 | ![](Images/BMS/Histograms.png) | ![](Images/BMS/WeatherPairs.png) |
+
+## Machine Learning on Poisonous Vs Nonpoisonous Mushrooms
+
+## Using Machine Learning to Predict Nicotine Dependence Based on Psychological and Demographic Factors
