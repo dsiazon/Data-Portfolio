@@ -12,6 +12,8 @@
 
 ## Beyong Market Size
 ### How Company Scale and Style Influence Financial Returns and Growth
+
+## Effects of Weather on Solar Energy Production
 <p align="center">
   <img src="Images/BMS/solarpanelsUSA.png" />
 </p>
@@ -33,3 +35,5 @@ The project includes **data preprocessing, one-hot encoding, train/test splittin
 **Skills:** Python · Pandas · Scikit-learn · Exploratory Data Analysis · Data Preprocessing · Classification · Hyperparameter Tuning · Cross-Validation · Model Evaluation · Feature Importance
 
 ## Using Machine Learning to Predict Nicotine Dependence Based on Psychological and Demographic Factors
+
+![](Images/NicotineRisk/Nicotine1.png) 
