@@ -22,8 +22,8 @@
 
 ## Machine Learning on Poisonous Vs Nonpoisonous Mushrooms
 
-## Mushroom Toxicity Classification
-| ![](Images/BMS/Histograms.png) | ![](Images/BMS/WeatherPairs.png) |
+![](Images/Mushrooms/Mushrooms1.png) 
+
 Machine learning classification project predicting whether mushrooms are **poisonous or edible** using physical characteristics from the UCI Mushroom Dataset.
 
 I compared multiple classification algorithms—including **Decision Trees, Random Forest, Gradient Boosting, Support Vector Classification, and Logistic Regression**—and evaluated their performance using accuracy and recall. Because incorrectly classifying a poisonous mushroom as edible represents a high-cost false negative, recall was treated as a key evaluation metric.
