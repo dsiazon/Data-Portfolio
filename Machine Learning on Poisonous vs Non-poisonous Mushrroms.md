@@ -7,7 +7,7 @@ This project explores the use of machine learning classification techniques to d
 The analysis focuses on questions such as: How accurately can machine learning predict mushroom toxicity? Which classification techniques perform best? Which mushroom characteristics are most important for prediction? How can model complexity improve performance while minimizing false negatives?
 
 <br />
-![](Images/BeyondMarketSize.png)
+![](Images/BMS/Mushrooms1.png)
 
 ## Analytical Insights
 
@@ -39,4 +39,13 @@ The analysis focuses on questions such as: How accurately can machine learning p
 
 The analysis demonstrates that machine learning can effectively classify mushrooms as poisonous or nonpoisonous using their physical characteristics. Multiple classification techniques achieved very high performance, with the final Logistic Regression, Random Forest, and SVC models achieving perfect classification under their respective test evaluations.
 
+
 Feature analysis also revealed that odor was consistently one of the strongest predictors of mushroom classification across several models. Overall, the project demonstrates how classification algorithms, feature importance analysis, and hyperparameter tuning can be combined to build predictive models while prioritizing the reduction of potentially dangerous false-negative predictions.
+
+![](Images/BMS/Mushrooms1.png)
+![](Images/BMS/MushroomsDecisionTree.png)
+![](Images/BMS/MushroomsGBC.png)
+![](Images/BMS/MushroomsLR.png)
+![](Images/BMS/MushroomsRandomForest.png)
+![](Images/BMS/MushroomsSVC.png)
+
