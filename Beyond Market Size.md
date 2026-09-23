@@ -8,7 +8,7 @@ The analysis focuses on questions such as: Do smaller-cap funds experience great
 
 <br />
 
-![](Images/BeyongMarket.png)
+![](Images/BeyondMarketSize.png)
 
 ## Analytical Insights
 
