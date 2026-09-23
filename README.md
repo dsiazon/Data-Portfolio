@@ -13,6 +13,8 @@
 ## Beyong Market Size
 ### How Company Scale and Style Influence Financial Returns and Growth
 
+![](Images/BMSMosaicPlot.png)
+
 ## Effects of Weather on Solar Energy Production
 <p align="center">
   <img src="Images/BMS/solarpanelsUSA.png" />
