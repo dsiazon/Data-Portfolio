@@ -7,7 +7,7 @@ This project explores the use of machine learning classification techniques to d
 The analysis focuses on questions such as: How accurately can machine learning predict mushroom toxicity? Which classification techniques perform best? Which mushroom characteristics are most important for prediction? How can model complexity improve performance while minimizing false negatives?
 
 <br />
-![](Images/BMS/Mushrooms1.png)
+![](Images/Mushrooms/Mushrooms1.png)
 
 ## Analytical Insights
 
@@ -16,6 +16,8 @@ The analysis focuses on questions such as: How accurately can machine learning p
 - Decision Tree, Random Forest, Gradient Boosting, Support Vector Classification, and Logistic Regression were evaluated using different hyperparameters and validation techniques.
 - Random Forest, Logistic Regression, and SVC achieved 100% accuracy under their respective final test evaluations.
 - Logistic Regression achieved 100% accuracy and recall after tuning, with zero false negatives in the final test set.
+- 
+![](Images/Mushrooms/MushroomsDecisionTree.png)
 
 **2. Recall was prioritized because false negatives carry a high cost.**
 
@@ -25,15 +27,20 @@ The analysis focuses on questions such as: How accurately can machine learning p
 
 **3. Odor was consistently one of the most important predictors of mushroom toxicity.**
 
+![](Images/Mushrooms/MushroomsDecisionTree.png)
+
 - Odor-related features ranked among the strongest predictors across multiple models.
 - The Gradient Boosting model identified odor as its most significant feature, accounting for approximately 61.8% of feature importance.
 - Random Forest and Logistic Regression also identified odor-related characteristics as important predictors, demonstrating consistency across different classification approaches.
+- 
+|![](Images/Mushrooms/MushroomsLR.png) | ![](Images/Mushrooms/MushroomsRandomForest.png) |
 
 **4. Model complexity and hyperparameter tuning improved classification performance.**
 
 - The models were tuned by adjusting parameters such as tree depth, number of estimators, regularization strength, kernel, and other model-specific settings.
 - For Logistic Regression, increasing the regularization parameter to C = 10 improved performance to 100% accuracy and 100% recall.
 - The Random Forest model reached 100% test accuracy at a maximum depth of 7 with 100 estimators.
+![](Images/Mushrooms/MushroomsGBC.png) | ![](Images/Mushrooms/MushroomsSVC.png)
 
 ## Conclusion
 
@@ -42,10 +49,7 @@ The analysis demonstrates that machine learning can effectively classify mushroo
 
 Feature analysis also revealed that odor was consistently one of the strongest predictors of mushroom classification across several models. Overall, the project demonstrates how classification algorithms, feature importance analysis, and hyperparameter tuning can be combined to build predictive models while prioritizing the reduction of potentially dangerous false-negative predictions.
 
-![](Images/BMS/Mushrooms1.png)
-![](Images/BMS/MushroomsDecisionTree.png)
-![](Images/BMS/MushroomsGBC.png)
-![](Images/BMS/MushroomsLR.png)
-![](Images/BMS/MushroomsRandomForest.png)
-![](Images/BMS/MushroomsSVC.png)
+
+
+
 
