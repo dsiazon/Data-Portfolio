@@ -4,16 +4,19 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Rstudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 
+## 
 ## Technology Use and Its Impact on Wellness
 ![](Images/TechUse.png)
 
+## 
 ## Birthing-Friendly Hospitals Across US
 ![](Images/Birthing-Friendly-Hospitals.png)
 
+## 
 ## Beyong Market Size
 ### How Company Scale and Style Influence Financial Returns and Growth
-
-![](Images/BMSMosaicPlot.png)
+![](Images/BeyondMarketSize.png) 
+## 
 
 ## Effects of Weather on Solar Energy Production
 <p align="center">
@@ -23,6 +26,8 @@
 | | |
 |---|---|
 | ![](Images/BMS/Histograms.png) | ![](Images/BMS/WeatherPairs.png) |
+
+## 
 
 ## Machine Learning on Poisonous Vs Nonpoisonous Mushrooms
 
@@ -35,6 +40,8 @@ I compared multiple classification algorithms—including **Decision Trees, Rand
 The project includes **data preprocessing, one-hot encoding, train/test splitting, 5-fold cross-validation, hyperparameter tuning, model complexity analysis, and feature importance analysis**. Several models achieved 100% accuracy and recall, with **odor-related characteristics consistently emerging as important predictors**.
 
 **Skills:** Python · Pandas · Scikit-learn · Exploratory Data Analysis · Data Preprocessing · Classification · Hyperparameter Tuning · Cross-Validation · Model Evaluation · Feature Importance
+
+## 
 
 ## Using Machine Learning to Predict Nicotine Dependence Based on Psychological and Demographic Factors
 
