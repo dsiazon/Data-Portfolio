@@ -1,4 +1,4 @@
-# Technology Use and Its Impact on Wellness
+# Beyond Market Size
 
 ## Objectives of the Project
 
