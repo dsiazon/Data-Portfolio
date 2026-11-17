@@ -11,6 +11,7 @@ With 5,000 participants, the dataset provides a rich opportunity to study patter
 
 ## 
 ## Birthing-Friendly Hospitals Across US
+An analysis of birthing-friendly hospitals across the United States, exploring their geographic distribution and accessibility to maternal healthcare services. This project uses data visualization and spatial analysis to identify patterns in hospital locations and highlight potential gaps in access to quality maternal care.
 ![](Images/Birthing-Friendly-Hospitals.png)
 
 ## 
@@ -20,6 +21,7 @@ With 5,000 participants, the dataset provides a rich opportunity to study patter
 ## 
 
 ## Effects of Weather on Solar Energy Production
+An analysis of how weather conditions influence solar energy production using statistical modeling and machine learning. By examining factors such as temperature, relative humidity, and cloud cover, this project evaluates their effects on solar output and compares regression and classification models to better understand and predict energy generation.
 <p align="center">
   <img src="Images/BMS/solarpanelsUSA.png" />
 </p>
