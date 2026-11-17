@@ -45,5 +45,7 @@ The project includes **data preprocessing, one-hot encoding, train/test splittin
 ## 
 
 ## Using Machine Learning to Predict Nicotine Dependence Based on Psychological and Demographic Factors
+This project explores the use of machine learning to identify patterns associated with nicotine dependence risk based on demographic, psychological, and behavioral factors. Using the Drug Consumption (Quantified) dataset containing 1,885 participants, the analysis examines how characteristics such as age, education, personality traits, impulsivity, and sensation-seeking relate to nicotine risk.
 
+The project focuses on questions such as: Which demographic and psychological factors are associated with higher nicotine risk? How accurately can machine learning classify nicotine risk? Which classification model performs best? Which characteristics are the strongest predictors of nicotine dependence risk?
 ![](Images/NicotineRisk/Nicotine1.png) 
