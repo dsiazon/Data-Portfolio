@@ -6,12 +6,14 @@
 
 ## 
 ## Technology Use and Its Impact on Wellness
-With 5,000 participants, the dataset provides a rich opportunity to study patterns and relationships between technology use and wellness outcomes. Researchers and data scientists can use it to ask questions like: Does heavy screen time impact sleep and stress levels? Is social media linked to mood or anxiety? Can healthy habits offset the negative effects of technology use?
+With 5,000 participants, the dataset provides a rich opportunity to study patterns and relationships between technology use and wellness outcomes. Researchers and data scientists can use it to ask questions like: Does heavy screen time impact sleep and stress levels? Is social media linked to mood or anxiety? Can healthy habits offset the negative effects of technology use? 
+
 ![](Images/TechUse.png)
 
 ## 
 ## Birthing-Friendly Hospitals Across US
-An analysis of birthing-friendly hospitals across the United States, exploring their geographic distribution and accessibility to maternal healthcare services. This project uses data visualization and spatial analysis to identify patterns in hospital locations and highlight potential gaps in access to quality maternal care.
+An analysis of birthing-friendly hospitals across the United States, exploring their geographic distribution and accessibility to maternal healthcare services. This project uses data visualization and spatial analysis to identify patterns in hospital locations and highlight potential gaps in access to quality maternal care. 
+
 ![](Images/Birthing-Friendly-Hospitals.png)
 
 ## 
@@ -19,7 +21,8 @@ An analysis of birthing-friendly hospitals across the United States, exploring t
 ### How Company Scale and Style Influence Financial Returns and Growth
 This project explores patterns in global mutual-fund performance using a dataset sourced from Morningstar. With over 500 equity funds, the dataset provides an opportunity to examine how investment style, market capitalization, geographic domicile, and industry category relate to fund returns and risk.
 
-The analysis focuses on questions such as: Do smaller-cap funds experience greater variation in returns? Does geographic domicile influence investment style and performance? Which industries demonstrate stronger short- and long-term returns? How are risk and return related across different sectors?
+The analysis focuses on questions such as: Do smaller-cap funds experience greater variation in returns? Does geographic domicile influence investment style and performance? Which industries demonstrate stronger short- and long-term returns? How are risk and return related across different sectors? 
+
 ![](Images/BeyondMarketSize.png) 
 ## 
 
@@ -53,4 +56,5 @@ The analysis focuses on questions such as: How accurately can machine learning p
 This project explores the use of machine learning to identify patterns associated with nicotine dependence risk based on demographic, psychological, and behavioral factors. Using the Drug Consumption (Quantified) dataset containing 1,885 participants, the analysis examines how characteristics such as age, education, personality traits, impulsivity, and sensation-seeking relate to nicotine risk.
 
 The project focuses on questions such as: Which demographic and psychological factors are associated with higher nicotine risk? How accurately can machine learning classify nicotine risk? Which classification model performs best? Which characteristics are the strongest predictors of nicotine dependence risk?
+
 ![](Images/NicotineRisk/Nicotine1.png) 
