@@ -17,6 +17,9 @@ An analysis of birthing-friendly hospitals across the United States, exploring t
 ## 
 ## Beyong Market Size
 ### How Company Scale and Style Influence Financial Returns and Growth
+This project explores patterns in global mutual-fund performance using a dataset sourced from Morningstar. With over 500 equity funds, the dataset provides an opportunity to examine how investment style, market capitalization, geographic domicile, and industry category relate to fund returns and risk.
+
+The analysis focuses on questions such as: Do smaller-cap funds experience greater variation in returns? Does geographic domicile influence investment style and performance? Which industries demonstrate stronger short- and long-term returns? How are risk and return related across different sectors?
 ![](Images/BeyondMarketSize.png) 
 ## 
 
