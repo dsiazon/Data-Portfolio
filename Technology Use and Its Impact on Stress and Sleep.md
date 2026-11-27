@@ -6,7 +6,7 @@ This dataset explores the connections between how people use technology in their
 
 The data offers a broad look at how digital behaviors—like time spent on phones, laptops, or social media—intersect with key aspects of wellness including sleep quality, physical activity, and mindfulness practices. Alongside these, lifestyle elements such as healthy eating and caffeine consumption are also included, allowing for a more holistic view of modern life.
 
-## Objectives of the Project
+## Project Overview
 
 With 5,000 participants, the dataset provides a rich opportunity to study patterns and relationships between technology use and wellness outcomes. Researchers and data scientists can use it to ask questions like: Does heavy screen time impact sleep and stress levels? Is social media linked to mood or anxiety? Can healthy habits offset the negative effects of technology use?
 <br />
