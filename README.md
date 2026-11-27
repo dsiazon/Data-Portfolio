@@ -4,26 +4,34 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Rstudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 
-## 
-## Technology Use and Its Impact on Wellness
-With 5,000 participants, the dataset provides a rich opportunity to study patterns and relationships between technology use and wellness outcomes. Researchers and data scientists can use it to ask questions like: Does heavy screen time impact sleep and stress levels? Is social media linked to mood or anxiety? Can healthy habits offset the negative effects of technology use? 
+##
+## 2024 Benzene Releases and TRI Facility Locations in Los Angeles County, California
+This project uses ArcGIS Pro to analyze and visualize the geographic distribution of benzene releases reported by facilities in Los Angeles County, California, in 2024. Using data from the EPA Toxic Release Inventory (TRI), the project identifies facilities reporting onsite benzene releases and examines how release amounts are distributed across geographic areas.
 
-![](Images/TechUse.png)
-
-## 
-## Birthing-Friendly Hospitals Across US
-An analysis of birthing-friendly hospitals across the United States, exploring their geographic distribution and accessibility to maternal healthcare services. This project uses data visualization and spatial analysis to identify patterns in hospital locations and highlight potential gaps in access to quality maternal care. 
-
-![](Images/Birthing-Friendly-Hospitals.png)
+![](Images/2024BenzeneReleases.png)
 
 ## 
-## Beyong Market Size
-### How Company Scale and Style Influence Financial Returns and Growth
-This project explores patterns in global mutual-fund performance using a dataset sourced from Morningstar. With over 500 equity funds, the dataset provides an opportunity to examine how investment style, market capitalization, geographic domicile, and industry category relate to fund returns and risk.
 
-The analysis focuses on questions such as: Do smaller-cap funds experience greater variation in returns? Does geographic domicile influence investment style and performance? Which industries demonstrate stronger short- and long-term returns? How are risk and return related across different sectors? 
+## Using Machine Learning to Predict Nicotine Dependence Based on Psychological and Demographic Factors
+This project explores the use of machine learning to identify patterns associated with nicotine dependence risk based on demographic, psychological, and behavioral factors. Using the Drug Consumption (Quantified) dataset containing 1,885 participants, the analysis examines how characteristics such as age, education, personality traits, impulsivity, and sensation-seeking relate to nicotine risk.
 
-![](Images/BeyondMarketSize.png) 
+The project focuses on questions such as: Which demographic and psychological factors are associated with higher nicotine risk? How accurately can machine learning classify nicotine risk? Which classification model performs best? Which characteristics are the strongest predictors of nicotine dependence risk?
+
+![](Images/NicotineRisk/Nicotine1.png) 
+
+## 
+
+## Machine Learning on Poisonous Vs Nonpoisonous Mushrooms
+![](Images/Mushrooms/Mushrooms1.png) 
+
+Machine learning classification project predicting whether mushrooms are **poisonous or edible** using physical characteristics from the UCI Mushroom Dataset.
+
+This project explores the use of machine learning classification techniques to distinguish between poisonous and nonpoisonous mushrooms. Using a dataset of 8,124 mushroom samples and 23 physical characteristics, the project evaluates multiple classification models to determine how accurately mushroom toxicity can be predicted.
+
+The analysis focuses on questions such as: How accurately can machine learning predict mushroom toxicity? Which classification techniques perform best? Which mushroom characteristics are most important for prediction? How can model complexity improve performance while minimizing false negatives?
+
+**Skills:** Python · Pandas · Scikit-learn · Exploratory Data Analysis · Data Preprocessing · Classification · Hyperparameter Tuning · Cross-Validation · Model Evaluation · Feature Importance
+
 ## 
 
 ## Effects of Weather on Solar Energy Production
@@ -37,24 +45,29 @@ An analysis of how weather conditions influence solar energy production using st
 | ![](Images/BMS/Histograms.png) | ![](Images/BMS/WeatherPairs.png) |
 
 ## 
+## Beyong Market Size
+### How Company Scale and Style Influence Financial Returns and Growth
+This project explores patterns in global mutual-fund performance using a dataset sourced from Morningstar. With over 500 equity funds, the dataset provides an opportunity to examine how investment style, market capitalization, geographic domicile, and industry category relate to fund returns and risk.
 
-## Machine Learning on Poisonous Vs Nonpoisonous Mushrooms
+The analysis focuses on questions such as: Do smaller-cap funds experience greater variation in returns? Does geographic domicile influence investment style and performance? Which industries demonstrate stronger short- and long-term returns? How are risk and return related across different sectors? 
 
-![](Images/Mushrooms/Mushrooms1.png) 
-
-Machine learning classification project predicting whether mushrooms are **poisonous or edible** using physical characteristics from the UCI Mushroom Dataset.
-
-This project explores the use of machine learning classification techniques to distinguish between poisonous and nonpoisonous mushrooms. Using a dataset of 8,124 mushroom samples and 23 physical characteristics, the project evaluates multiple classification models to determine how accurately mushroom toxicity can be predicted.
-
-The analysis focuses on questions such as: How accurately can machine learning predict mushroom toxicity? Which classification techniques perform best? Which mushroom characteristics are most important for prediction? How can model complexity improve performance while minimizing false negatives?
-
-**Skills:** Python · Pandas · Scikit-learn · Exploratory Data Analysis · Data Preprocessing · Classification · Hyperparameter Tuning · Cross-Validation · Model Evaluation · Feature Importance
+![](Images/BeyondMarketSize.png) 
 
 ## 
+## Technology Use and Its Impact on Wellness
+With 5,000 participants, the dataset provides a rich opportunity to study patterns and relationships between technology use and wellness outcomes. Researchers and data scientists can use it to ask questions like: Does heavy screen time impact sleep and stress levels? Is social media linked to mood or anxiety? Can healthy habits offset the negative effects of technology use? 
 
-## Using Machine Learning to Predict Nicotine Dependence Based on Psychological and Demographic Factors
-This project explores the use of machine learning to identify patterns associated with nicotine dependence risk based on demographic, psychological, and behavioral factors. Using the Drug Consumption (Quantified) dataset containing 1,885 participants, the analysis examines how characteristics such as age, education, personality traits, impulsivity, and sensation-seeking relate to nicotine risk.
+![](Images/TechUse.png)
 
-The project focuses on questions such as: Which demographic and psychological factors are associated with higher nicotine risk? How accurately can machine learning classify nicotine risk? Which classification model performs best? Which characteristics are the strongest predictors of nicotine dependence risk?
+## 
+## Birthing-Friendly Hospitals Across US
+An analysis of birthing-friendly hospitals across the United States, exploring their geographic distribution and accessibility to maternal healthcare services. This project uses data visualization and spatial analysis to identify patterns in hospital locations and highlight potential gaps in access to quality maternal care. 
 
-![](Images/NicotineRisk/Nicotine1.png) 
+![](Images/Birthing-Friendly-Hospitals.png)
+
+
+
+
+
+
+
