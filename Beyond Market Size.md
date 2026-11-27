@@ -1,6 +1,6 @@
 # Beyond Market Size
 
-## Objectives of the Project
+## Project Overview
 
 This project explores patterns in global mutual-fund performance using a dataset sourced from Morningstar. With over 500 equity funds, the dataset provides an opportunity to examine how investment style, market capitalization, geographic domicile, and industry category relate to fund returns and risk.
 
