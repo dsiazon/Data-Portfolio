@@ -1,6 +1,6 @@
 # Birthing-Friendly Hospitals Across US
 
-## Objectives of the Project
+## Project Overview
 This project explores the geographic distribution of birthing-friendly hospitals across the United States. 
 It aims to examine where these hospitals are located and how their distribution may relate to access to maternal healthcare. 
 By looking at the locations of birthing-friendly facilities, the project provides a geographic perspective on the availability 
