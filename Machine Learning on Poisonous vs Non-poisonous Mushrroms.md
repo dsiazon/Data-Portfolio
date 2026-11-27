@@ -1,6 +1,6 @@
 # Machine Learning on Poisonous vs Non-poisonous Mushrroms
 
-## Objectives of the Project
+## Project Overview
 
 This project explores the use of machine learning classification techniques to distinguish between poisonous and nonpoisonous mushrooms. Using a dataset of 8,124 mushroom samples and 23 physical characteristics, the project evaluates multiple classification models to determine how accurately mushroom toxicity can be predicted.
 
