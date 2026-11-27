@@ -23,7 +23,7 @@ This project uses ArcGIS Pro to analyze and visualize the geographic distributio
 ## Project Output
 A thematic GIS map illustrating benzene release amounts across Los Angeles County census tracts and the locations of facilities reporting onsite benzene releases in 2024.
 
-![](Images/2024 Benzene Releases and TRI Facility Locations.png)
+![](Images/2024BenzeneReleases.png)
 ## Data Sources
 - U.S. Environmental Protection Agency (EPA) – [Toxics Release Inventory (TRI)](https://www.epa.gov/toxics-release-inventory-tri-program)
 - EPA – [TRI Basic Data Files](https://www.epa.gov/toxics-release-inventory-tri-program/tri-basic-data-files-calendar-years-1987-present)
