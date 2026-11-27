@@ -1,6 +1,6 @@
 # Effects of Weather on Solar Energy Production
 
-## Objectives of the Project
+## Project Overview
 This project examines how weather conditions influence solar energy production using statistical modeling and machine learning. 
 Using the Solar Energy Power Generation dataset from Kaggle, which contains 569 observations and 21 variables, the analysis focuses on weather-related 
 factors such as temperature, relative humidity, precipitation, snowfall, cloud cover, and wind conditions.
